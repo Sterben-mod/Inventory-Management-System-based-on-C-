@@ -34,7 +34,6 @@ This repo contains only the compiled setup file (`setup.exe`). The full project 
 
 ## 🚧 Limitations
 - Currently supports single-user local access.
-- No authentication/login system implemented yet.
 
 ## 🧑‍💻 Developer
 **Carlo Lorenzo L. Belleza**  
